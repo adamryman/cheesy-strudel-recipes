@@ -1,4 +1,4 @@
-samples('github.com:adamryman/cheesy-strudel-samples')
+samples('github:adamryman/cheesy-strudel-samples')
 
 //s("quotes:1").clip(.1).fast(2)
 //s("<~ quotes:1 ~>").slow(4)
